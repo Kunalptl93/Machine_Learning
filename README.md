@@ -72,3 +72,6 @@ To run this project, you need the following:
 - Model can reliably classify cat and dog images with minimal error.
 
 ## https://medium.com/@p.kunal7997/from-pixels-to-predictions-building-a-cnn-for-image-classification-f4c190ce061f
+
+dataset link:-
+## https://drive.google.com/drive/folders/1LT7X2vIU8ojeN6WfVI92eM2j54KFfFsq?usp=sharing
